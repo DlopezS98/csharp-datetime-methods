@@ -1,0 +1,13 @@
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\bin\Debug\netcoreapp3.1\DatesRanges.exe
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\bin\Debug\netcoreapp3.1\DatesRanges.deps.json
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\bin\Debug\netcoreapp3.1\DatesRanges.runtimeconfig.json
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\bin\Debug\netcoreapp3.1\DatesRanges.runtimeconfig.dev.json
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\bin\Debug\netcoreapp3.1\DatesRanges.dll
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\bin\Debug\netcoreapp3.1\DatesRanges.pdb
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\obj\Debug\netcoreapp3.1\DatesRanges.csproj.AssemblyReference.cache
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\obj\Debug\netcoreapp3.1\DatesRanges.AssemblyInfoInputs.cache
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\obj\Debug\netcoreapp3.1\DatesRanges.AssemblyInfo.cs
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\obj\Debug\netcoreapp3.1\DatesRanges.csproj.CoreCompileInputs.cache
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\obj\Debug\netcoreapp3.1\DatesRanges.dll
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\obj\Debug\netcoreapp3.1\DatesRanges.pdb
+C:\Users\DannyLópez\source\repos\DatesRanges\DatesRanges\obj\Debug\netcoreapp3.1\DatesRanges.genruntimeconfig.cache
